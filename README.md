@@ -21,12 +21,11 @@
         ![Second_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_4.png)
 
 ## Install Automatic1111
-1. Windows
+(For Windows PC)
    + Automatic1111 can be downloaded by entering the following command line into the **Windows Powershell**
    `git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git`
    + Click `webui-user.bat` to run Automatic1111
    + Move the checkpoints into the `stable-diffusion-webui>models>stable-diffusion` folder
-2. MAC
 
 ## Install Comfyui
    + Download Comfyui using this [link](https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu121_or_cpu.7z), extract the file (7-zip is recommanded).
