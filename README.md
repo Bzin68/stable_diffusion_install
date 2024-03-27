@@ -16,7 +16,9 @@
       * [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
         ![First_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_1.png)
         ![Second_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_2.png)
-      * [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)  
+      * [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+        ![First_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_3.png)
+        ![Second_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_4.png)
 
 ## Install Automatic1111
 1. Windows
@@ -28,7 +30,7 @@
 
 ## Install Comfyui
    + Download Comfyui using this [link](https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu121_or_cpu.7z), extract the file (7-zip is recommanded).
-   + Comfyui can be run with the pc's cpu by clicking `run_cpu.bat`, if the pc has a nvidia gpu, clicking `run_nvidia_gpu.bat` is recommanded.
+   + Comfyui can be run with the PC's CPU by clicking `run_cpu.bat`, if the PC has a Nvidia GPU, clicking `run_nvidia_gpu.bat` is recommended.
    + Move the checkpoints into the `ComfyUI>models>checkpoints` folder
 
 
