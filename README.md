@@ -14,6 +14,8 @@
    + URL: https://huggingface.co/
    + Recommended checkpoints:
       * [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+        ![First_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_1.png)
+        ![Second_step_ckpt](https://github.com/Bzin68/stable_diffusion_install/raw/main/huggingface_2.png)
       * [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)  
 
 ## Install Automatic1111
