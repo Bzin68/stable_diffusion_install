@@ -1,9 +1,9 @@
 # stable_diffusion_install: 
-   <! this is a guide for beginners to realize fundamental functionalities of Automatic1111 and Comfyui >
+   <!--this is a guide for beginners to realize the fundamental functionalities of Automatic1111 and Comfyui-->
    - *Author: Bernard Bai*
    - *Date: 19.03.2024*
 
-## Softwares you need to install:
+## Software you need to install:
 1. Install **Python 3.10.6**
    + URL: https://www.python.org/downloads/release/python-3106/
    + Note: the newest version of Python may result in problems, so installing Python 3.10.6 is enough.
@@ -12,7 +12,7 @@
    + Note: Use the *Standalone Installer*
 3. Downloading **checkpoints** from Huggingface
    + URL: https://huggingface.co/
-   + Recommanded checkpoints:
+   + Recommended checkpoints:
       * [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
       * [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)  
 
